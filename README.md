@@ -10,7 +10,7 @@ HIRE AI is an in progress, AI powered career platform designed to help college s
 
 This project is currently in the early stages of development. We're building out the MVP as part of a university capstone, and actively scoping out the architecture, components, and core user workflows.
 
-Follow along and ⭐️ this repo to watch the journey as we go from **student side project** to **full-scale startup.**
+Follow along and ⭐️ this repo to watch the journey as we go from **student side project** to **full scale startup.**
 
 ---
 
