@@ -2,7 +2,7 @@
 
 > **Smarter Applications. Stronger Chances.**
 
-HIRE AI is an in-progress, AI-powered career platform designed to help college students—starting with STEM majors—match with internships and jobs they are *actually qualified for*. Built with a data-driven approach, HIRE calculates real match probabilities based on your resume, GPA, skills, and goals—then gives you personalized recommendations to boost your chances.
+HIRE AI is an in progress, AI powered career platform designed to help college students—starting with STEM majors—match with internships and jobs they are *actually qualified for*. Built with a data-driven approach, HIRE calculates real match probabilities based on your resume, GPA, skills, and goals then gives you personalized recommendations to boost your chances.
 
 ---
 
